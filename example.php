@@ -1,5 +1,5 @@
 <header class="fixed-top bg-dark shadow">
-  <a id="logo" href="/" rel="home"><img src="$logo" alt="$site"/></a>
+  <a id="logo" href="/" rel="home"><img src="/logo.png" alt="Site Title"></a>
   <nav class="navbar navbar-expand-xl navbar-light">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menu" aria-controls="menu" aria-expanded="false" aria-label="Toggle navigation"></button>
     <div class="collapse navbar-collapse" id="menu"><ul class="navbar-nav mx-auto">
