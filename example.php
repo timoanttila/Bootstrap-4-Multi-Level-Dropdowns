@@ -19,6 +19,15 @@
   </nav>
 </header>
 
+<style>
+  @media screen and (min-width: 1200px){
+    .navbar-toggler,
+    .navbar-toggler-icon,
+    .dropdown:hover .dropdown-menu .dropdown-menu { display: none }
+    .dropdown:hover .dropdown-menu { display: block }
+  }
+</style>
+
 <script>
   $(document).ready(function(){
     $('.dropdown-submenu button').on("click", function(e){
